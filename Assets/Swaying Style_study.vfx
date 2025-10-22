@@ -6731,7 +6731,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.01
+      m_SerializableObject: 0.02
     m_Space: 2147483647
   m_Property:
     name: b
@@ -7139,7 +7139,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: -1.55
+      m_SerializableObject: 0.5
     m_Space: 2147483647
   m_Property:
     name: b
@@ -8809,7 +8809,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 1.45
+      m_SerializableObject: 0.91
     m_Space: 2147483647
   m_Property:
     name: b
@@ -9814,7 +9814,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.11320751905441284,"g":0.11320751905441284,"b":0.11320751905441284,"a":1.0},"time":0.0},{"color":{"r":0.7852924466133118,"g":0.7852924466133118,"b":0.7852924466133118,"a":1.0},"time":0.4735332131385803},{"color":{"r":48.188232421875,"g":48.188232421875,"b":48.188232421875,"a":1.0},"time":0.4911726415157318},{"color":{"r":0.7191159725189209,"g":0.7191159725189209,"b":0.7191159725189209,"a":1.0},"time":0.5117723345756531},{"color":{"r":0.0313725508749485,"g":0.0313725508749485,"b":0.0313725508749485,"a":1.0},"time":0.9970549941062927}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":0.800000011920929,"time":0.9970549941062927},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.11320751905441284,"g":0.11320751905441284,"b":0.11320751905441284,"a":1.0},"time":0.0},{"color":{"r":0.7852924466133118,"g":0.7852924466133118,"b":0.7852924466133118,"a":1.0},"time":0.4735332131385803},{"color":{"r":48.188232421875,"g":48.188232421875,"b":48.188232421875,"a":1.0},"time":0.4911726415157318},{"color":{"r":0.7191159725189209,"g":0.7191159725189209,"b":0.7191159725189209,"a":1.0},"time":0.5088273286819458},{"color":{"r":0.0313725508749485,"g":0.0313725508749485,"b":0.0313725508749485,"a":1.0},"time":0.9970549941062927}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":0.800000011920929,"time":0.9970549941062927},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: gradient
