@@ -265,8 +265,11 @@ VisualEffect:
       - m_Value: 10
         m_Name: Modeling Size
         m_Overridden: 1
-      - m_Value: 0.886
+      - m_Value: 0.967
         m_Name: AnimationValue
+        m_Overridden: 1
+      - m_Value: 0.935
+        m_Name: AnimationSlidingValue
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
