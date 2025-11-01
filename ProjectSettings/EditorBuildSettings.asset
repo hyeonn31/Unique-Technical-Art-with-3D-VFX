@@ -5,7 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/Scene/Start.unity
+    guid: 45741cdad21282940ab33e53d311c8d0
+  - enabled: 1
+    path: Assets/Scene/BlockStyleParticle.unity
+    guid: 573f4dea69daf39478a9d86877e78633
+  - enabled: 1
+    path: Assets/Scene/StatueCaptureEffect.unity
+    guid: 5e27a70a0a9505f4094ddb641272b777
+  - enabled: 1
+    path: Assets/Scene/Swaying Style.unity
+    guid: 08558839581bc474194eaf5f7ae73d0d
   m_configObjects: {}
