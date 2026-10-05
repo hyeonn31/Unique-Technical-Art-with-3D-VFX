@@ -1,5 +1,6 @@
 # Unique Technical Art with 3D VFX
 
+[![YouTube](https://img.shields.io/badge/YouTube-결과물_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NyAq3RaqNJE)
 ![Unity](https://img.shields.io/badge/Unity-2021.3-000000?style=flat-square&logo=unity&logoColor=white)
 ![HDRP](https://img.shields.io/badge/HDRP-12.1.7-4A4A4A?style=flat-square&logo=unity&logoColor=white)
 ![VFX Graph](https://img.shields.io/badge/VFX_Graph-12.1.7-7B3FE4?style=flat-square&logo=unity&logoColor=white)
@@ -7,14 +8,15 @@
 Unity VFX Graph를 공부하면서 만든 작업물 모음입니다.
 파티클로 어디까지 표현할 수 있는지 궁금해서 시작했고, 메시 파티클을 흔들어 보는 것부터 3D 조각상을 백만 개의 점으로 다시 그려보는 것까지 해봤습니다. 렌더링은 HDRP를 썼습니다.
 
-<!--
-## 결과물
+## 결과물 영상
 
 <p align="center">
-  <img src="docs/swaying-style.gif" width="49%" alt="Swaying Style">
-  <img src="docs/statue-capture.gif" width="49%" alt="Statue Capture Effect">
+  <a href="https://www.youtube.com/watch?v=NyAq3RaqNJE">
+    <img src="https://img.youtube.com/vi/NyAq3RaqNJE/hqdefault.jpg" width="720" alt="Unique Technical Art with 3D VFX 결과물 영상">
+  </a>
+  <br>
+  <sub>이미지를 누르면 유튜브에서 영상을 볼 수 있습니다</sub>
 </p>
--->
 
 ## 작업 1. Swaying Style
 
